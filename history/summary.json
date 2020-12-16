@@ -1,20 +1,20 @@
 [
   {
-    "name": "Secret Site",
+    "name": "Forums",
     "url": "$FORUMS",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "secret-site",
+    "slug": "forums",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   }
 ]
