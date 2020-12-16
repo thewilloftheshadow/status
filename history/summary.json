@@ -4,17 +4,17 @@
     "url": "$FORUMS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   }
 ]
