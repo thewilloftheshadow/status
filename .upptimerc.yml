@@ -6,6 +6,7 @@ repo: status # Your Github repository name
 sites:
   - name: Forums
     url: $FORUMS
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -24,3 +25,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees: # Users to assign downtime issues (optional)
+  - thewilloftheshadow
