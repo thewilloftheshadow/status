@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "forums",
     "status": "down",
-    "uptime": "95.69%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "uptime": "70.00%",
+    "uptimeDay": "17.29%",
+    "uptimeWeek": "70.00%",
+    "uptimeMonth": "70.00%",
+    "uptimeYear": "70.00%",
     "time": 196,
     "timeDay": 0,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2020-12-18": 57,
+      "2020-12-18": 1123,
       "2020-12-17": 68
     }
   }
