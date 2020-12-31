@@ -7,6 +7,10 @@ sites:
   - name: Forums
     url: $FORUMS
     maxResponseTime: 5000
+  - name: Blog
+    url: https://blog.theshadow.xyz
+  - name: Story
+    url: https://story.theshadow.xyz
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
