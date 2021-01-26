@@ -31,3 +31,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 assignees: # Users to assign downtime issues (optional)
   - thewilloftheshadow
+
+scripts:
+  - src: https://arc.io/widget.min.js#HgFQZQjv
+    async: true
