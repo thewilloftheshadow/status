@@ -1,7 +1,7 @@
 url: $FORUMS
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2021-02-23T23:27:10.154Z
+status: down
+code: 502
+responseTime: 471
+lastUpdated: 2021-02-24T01:06:12.981Z
 startTime: Wed Dec 16 2020 00:32:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
